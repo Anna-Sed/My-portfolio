@@ -1,1 +1,1 @@
-My portfolio - https://anna-sed.github.io/My-portfolio/
+My portfolio website - https://anna-sed.github.io/My-portfolio/
