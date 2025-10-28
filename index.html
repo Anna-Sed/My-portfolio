@@ -9,14 +9,14 @@
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&display=swap" rel="stylesheet">
 </head>
 <body>
-    <header class="header">
+    <header class="header" id="header">
         <h1 class="header-tittle">Анна Седеева</h1>
         <p class="header-subtitle">frontend и web разработчик</p>
-        <div class="header-arrow">
+        <a href="#portfolio" class="header-arrow">
             <img src="./img/header/chevron-down.svg" alt="Down arrow">
-        </div>
+        </a>
     </header>
-    <main class="portfolio">
+    <main class="portfolio" id="portfolio">
         <div class="conteiner">
             <h2 class="portfolio-header">Портфолио</h2>
             <div class="partfolio-cards-wrapper">
@@ -87,5 +87,10 @@
             </div>
         </div>
     </footer>
+    <!-- Библиотеки и плагины -->
+    <script src="./libs/jquery/jquery-3.7.1.min.js"></script>
+    <script src="./libs/vide/jquery.vide.min.js"></script>
+    <!-- Собственные скрипты -->
+    <script src="./js/index.js"></script>
 </body>
 </html>
