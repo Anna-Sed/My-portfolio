@@ -272,7 +272,7 @@ img {
 .project-description ul {
     margin-top: 15px;
     margin-bottom: 50px;
-    list-style-type: circle;
+    list-style-type: none;
 }
 
 .project-btn-back {
