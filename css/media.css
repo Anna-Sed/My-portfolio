@@ -26,6 +26,11 @@
     .icons-row {
         justify-content: space-around;
     }
+
+    .project-btn-back{
+        padding-left: 15px;
+        padding-right: 15px;
+        font-size: 14px;
 }
 
 /* Для экранов меньше 760px */
@@ -93,9 +98,10 @@
         margin-top: 15px;
     }
 
-    .footer-button {
+    .footer-button, .project-btn-back{
         padding-left: 15px;
         padding-right: 15px;
+        font-size: 12px;
     }
 
     .project {
