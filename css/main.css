@@ -138,10 +138,11 @@ a {
 .card-link:hover {
     color: var(--lightGreen);
 }
+
 /* Убираем отступы лишние у последних карточек */
-.card:last-child, .card:nth-last-child(2) {
+/* .card:last-child, .card:nth-last-child(2) {
     margin-bottom: 0;
-}
+} */
 
 .card-img {
     margin-bottom: 20px;
